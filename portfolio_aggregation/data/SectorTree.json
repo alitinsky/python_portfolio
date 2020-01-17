@@ -1,0 +1,18 @@
+[
+    {"id" : "COD_COS", "name":  "Consumer", "children": ["COS","COD"] },
+    {"id" : "IND_MAT", "name":  "Industry/Materials", "children":["IND","MAT"]},
+    {"id" : "INF_TEL", "name": "Info Tech. Telecom.", "children":["INF", "TEL"] },
+    {"id" : "ENE_UTI", "name":  "Energy Uilities", "children":["ENE", "UTI"]},
+    {"id" : "COD",  "name":  "Consumer Discretionary"},
+    {"id" : "COS",  "name":  "Consumer Staples"},
+
+    {"id" : "FIN",  "name":  "Financials"},
+    {"id" : "HEA",  "name":  "Health Care"},
+    {"id" : "IND",  "name":  "Industrials"},
+    {"id" : "INF",  "name":  "Information Technology"},
+    {"id" : "ENE",  "name":  "Energy"},
+    {"id" : "MAT",  "name":  "Materials"},
+    {"id" : "REA",  "name":  "Real Estate"},
+    {"id" : "TEL",  "name":  "Telecommunication Services"},
+    {"id" : "UTI",  "name":  "Utilities"}
+]
